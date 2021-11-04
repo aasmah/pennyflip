@@ -41,7 +41,7 @@ button {
 
 #flip,
 #roll {
-    background: linear-gradient(to bottom left, lightblue, white);
+    background: linear-gradient(to bottom left, rgb(5, 46, 59), white);
 }
 
 #flip:hover,
